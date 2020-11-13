@@ -1,0 +1,402 @@
+[
+    {
+    "word": "Joy",
+    "weight": 22
+    },
+    {
+    "word": "Kimberley",
+    "weight": 215
+    },
+    {
+    "word": "Tamika",
+    "weight": 196
+    },
+    {
+    "word": "Mabel",
+    "weight": 489
+    },
+    {
+    "word": "Beulah",
+    "weight": 433
+    },
+    {
+    "word": "Clark",
+    "weight": 166
+    },
+    {
+    "word": "Cline",
+    "weight": 6
+    },
+    {
+    "word": "Corrine",
+    "weight": 317
+    },
+    {
+    "word": "Kari",
+    "weight": 113
+    },
+    {
+    "word": "Kris",
+    "weight": 413
+    },
+    {
+    "word": "Kathryn",
+    "weight": 431
+    },
+    {
+    "word": "Jarvis",
+    "weight": 157
+    },
+    {
+    "word": "Stout",
+    "weight": 405
+    },
+    {
+    "word": "Washington",
+    "weight": 113
+    },
+    {
+    "word": "Robert",
+    "weight": 178
+    },
+    {
+    "word": "Therese",
+    "weight": 23
+    },
+    {
+    "word": "Kline",
+    "weight": 12
+    },
+    {
+    "word": "Dina",
+    "weight": 107
+    },
+    {
+    "word": "Holmes",
+    "weight": 14
+    },
+    {
+    "word": "Cantu",
+    "weight": 347
+    },
+    {
+    "word": "Pauline",
+    "weight": 98
+    },
+    {
+    "word": "Theresa",
+    "weight": 173
+    },
+    {
+    "word": "Becker",
+    "weight": 484
+    },
+    {
+    "word": "Pitts",
+    "weight": 435
+    },
+    {
+    "word": "Candice",
+    "weight": 204
+    },
+    {
+    "word": "Santana",
+    "weight": 62
+    },
+    {
+    "word": "Burns",
+    "weight": 195
+    },
+    {
+    "word": "Doyle",
+    "weight": 100
+    },
+    {
+    "word": "Maricela",
+    "weight": 480
+    },
+    {
+    "word": "Tricia",
+    "weight": 100
+    },
+    {
+    "word": "Norton",
+    "weight": 369
+    },
+    {
+    "word": "Shana",
+    "weight": 323
+    },
+    {
+    "word": "Georgia",
+    "weight": 203
+    },
+    {
+    "word": "Humphrey",
+    "weight": 297
+    },
+    {
+    "word": "Marshall",
+    "weight": 297
+    },
+    {
+    "word": "Sanford",
+    "weight": 413
+    },
+    {
+    "word": "Doreen",
+    "weight": 344
+    },
+    {
+    "word": "Delaney",
+    "weight": 408
+    },
+    {
+    "word": "Knowles",
+    "weight": 37
+    },
+    {
+    "word": "Maria",
+    "weight": 476
+    },
+    {
+    "word": "May",
+    "weight": 174
+    },
+    {
+    "word": "Vera",
+    "weight": 326
+    },
+    {
+    "word": "Merritt",
+    "weight": 429
+    },
+    {
+    "word": "Ward",
+    "weight": 167
+    },
+    {
+    "word": "Walters",
+    "weight": 283
+    },
+    {
+    "word": "Nora",
+    "weight": 326
+    },
+    {
+    "word": "Colon",
+    "weight": 311
+    },
+    {
+    "word": "Pearson",
+    "weight": 374
+    },
+    {
+    "word": "Shepard",
+    "weight": 74
+    },
+    {
+    "word": "Hampton",
+    "weight": 298
+    },
+    {
+    "word": "Smith",
+    "weight": 244
+    },
+    {
+    "word": "Sherri",
+    "weight": 397
+    },
+    {
+    "word": "Allison",
+    "weight": 220
+    },
+    {
+    "word": "Alyssa",
+    "weight": 245
+    },
+    {
+    "word": "Pittman",
+    "weight": 208
+    },
+    {
+    "word": "Osborn",
+    "weight": 477
+    },
+    {
+    "word": "Flynn",
+    "weight": 416
+    },
+    {
+    "word": "Rene",
+    "weight": 495
+    },
+    {
+    "word": "Robyn",
+    "weight": 377
+    },
+    {
+    "word": "Rivas",
+    "weight": 97
+    },
+    {
+    "word": "Powell",
+    "weight": 269
+    },
+    {
+    "word": "Kathleen",
+    "weight": 464
+    },
+    {
+    "word": "Tammy",
+    "weight": 190
+    },
+    {
+    "word": "Casey",
+    "weight": 332
+    },
+    {
+    "word": "Brenda",
+    "weight": 481
+    },
+    {
+    "word": "Gentry",
+    "weight": 429
+    },
+    {
+    "word": "Leonard",
+    "weight": 405
+    },
+    {
+    "word": "Scott",
+    "weight": 298
+    },
+    {
+    "word": "Ramsey",
+    "weight": 242
+    },
+    {
+    "word": "Priscilla",
+    "weight": 172
+    },
+    {
+    "word": "Estela",
+    "weight": 93
+    },
+    {
+    "word": "Lilian",
+    "weight": 243
+    },
+    {
+    "word": "Charlotte",
+    "weight": 79
+    },
+    {
+    "word": "Chavez",
+    "weight": 136
+    },
+    {
+    "word": "Ramirez",
+    "weight": 455
+    },
+    {
+    "word": "Heather",
+    "weight": 383
+    },
+    {
+    "word": "Leslie",
+    "weight": 230
+    },
+    {
+    "word": "Santos",
+    "weight": 441
+    },
+    {
+    "word": "Merle",
+    "weight": 348
+    },
+    {
+    "word": "Erika",
+    "weight": 500
+    },
+    {
+    "word": "Violet",
+    "weight": 329
+    },
+    {
+    "word": "Madden",
+    "weight": 304
+    },
+    {
+    "word": "Middleton",
+    "weight": 453
+    },
+    {
+    "word": "Sheree",
+    "weight": 65
+    },
+    {
+    "word": "Gwendolyn",
+    "weight": 483
+    },
+    {
+    "word": "Hurst",
+    "weight": 240
+    },
+    {
+    "word": "Hooper",
+    "weight": 291
+    },
+    {
+    "word": "Blanchard",
+    "weight": 174
+    },
+    {
+    "word": "Clara",
+    "weight": 476
+    },
+    {
+    "word": "Key",
+    "weight": 267
+    },
+    {
+    "word": "Abbott",
+    "weight": 367
+    },
+    {
+    "word": "Rosie",
+    "weight": 430
+    },
+    {
+    "word": "Dolly",
+    "weight": 104
+    },
+    {
+    "word": "Mollie",
+    "weight": 390
+    },
+    {
+    "word": "Rose",
+    "weight": 32
+    },
+    {
+    "word": "Catalina",
+    "weight": 211
+    },
+    {
+    "word": "Diann",
+    "weight": 310
+    },
+    {
+    "word": "Sue",
+    "weight": 355
+    },
+    {
+    "word": "Maritza",
+    "weight": 343
+    },
+    {
+    "word": "Bolton",
+    "weight": 441
+    }
+];
