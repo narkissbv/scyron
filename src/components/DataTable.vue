@@ -128,7 +128,7 @@ export default {
     // populate table items from data.json
     axios.get('/data.json').then ( (resp) => {
       let data = eval(resp.data)
-      // mapping the different values into clear JS object
+      // mapping the data into clear JS object so we can search on
       data.forEach( (item) => {
         this.computedData.push({
           id: item.id,

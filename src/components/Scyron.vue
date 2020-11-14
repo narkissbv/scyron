@@ -2,6 +2,7 @@
   <div>
     <v-container>
       <h1>Scyron home assignment</h1>
+      <h2>By Matan Narkiss</h2>
       <v-card class="mb-10">
         <h3 @click="showTask1 = !showTask1">Task 1: Data Table</h3>
       </v-card>
@@ -32,6 +33,10 @@ export default {
 </script>
 
 <style>
+  h2 {
+    color: lightcoral;
+    margin-bottom: 20px;
+  }
   h3 {
     cursor: pointer;
   }
