@@ -17,8 +17,8 @@ export default {
   data () {
     return {
       nodes: [
-        {id: 1,  label: 'circle',  shape: 'circle' },
-        {id: 2,  label: 'ellipse', shape: 'ellipse'},
+        {id: 1,  label: 'image',  shape: 'image', image: 'https://picsum.photos/id/809/200/200' },
+        {id: 2,  label: 'svg', shape: 'image', image: 'https://cdn.worldvectorlogo.com/logos/lorem-lorem-1.svg'},
         {id: 3,  label: 'database',shape: 'database'},
         {id: 4,  label: 'box',     shape: 'box'    },
         {id: 5,  label: 'diamond', shape: 'diamond'},
