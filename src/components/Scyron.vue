@@ -11,6 +11,10 @@
         <h3 @click="showTask2 = !showTask2">Task 2: Word Cloud</h3>
       </v-card>
       <WordCloud v-if="showTask2"/>
+      <v-card>
+        <h3 @click="showTask3 = !showTask3">Task3: vis-network</h3>
+      </v-card>
+      <VisNetwork v-if="showTask3"/>
     </v-container>
   </div>
 </template>
@@ -18,16 +22,19 @@
 <script>
 import DataTable from './DataTable'
 import WordCloud from './WordCloud'
+import VisNetwork from './VisNetwork'
 export default {
   data () {
     return {
       showTask1: false,
-      showTask2: false
+      showTask2: false,
+      showTask3: false
     }
   },
   components: {
     DataTable,
-    WordCloud
+    WordCloud,
+    VisNetwork
   }
 }
 </script>
